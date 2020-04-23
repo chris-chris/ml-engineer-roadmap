@@ -24,9 +24,9 @@ If you think that these can be improved in any way, please do suggest.
 
 ![Machine Learning Engineer Roadmap Introduction](./img/intro.png)
 
-## Backend Roadmap
+## ML Engineer Roadmap
 
-![Backend Roadmap](./img/backend.png)
+![Backend Roadmap](./img/ml-engineer.png)
 
 ## MLOps Roadmap
 
