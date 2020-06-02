@@ -2,7 +2,7 @@
 
 > Roadmap to becoming a machine learning engineer in 2020, inspired by [web-developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a mlops(devops). I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a machine learning engineer. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
 
 > Check out my [Github](https://github.com/chris-chris) and say "hi" on [Twitter](https://twitter.com/chris_loves_ai).
 
