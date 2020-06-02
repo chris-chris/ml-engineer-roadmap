@@ -20,21 +20,9 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you think that these can be improved in any way, please do suggest.
 
-## Introduction
-
-![Machine Learning Engineer Roadmap Introduction](./img/intro.png)
-
 ## ML Engineer Roadmap
 
 ![Backend Roadmap](./img/ml-engineer.png)
-
-## MLOps Roadmap
-
-![MLOps Roadmap](./img/mlops.png)
-
-## Research Engineer Roadmap
-
-![Research Engineer Roadmap](./img/research-engineer.png)
 
 ## 🚦 Wrap Up
 
