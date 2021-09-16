@@ -144,7 +144,7 @@
                     "zOrder": "13",
                     "measuredW": "139",
                     "measuredH": "26",
-                    "x": "653",
+                    "x": "690",
                     "y": "260",
                     "properties": {
                         "bold": "true",
@@ -247,8 +247,8 @@
                     "w": "202",
                     "measuredW": "179",
                     "measuredH": "32",
-                    "x": "447",
-                    "y": "658",
+                    "x": "439",
+                    "y": "758",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -679,8 +679,8 @@
                     "w": "234",
                     "measuredW": "221",
                     "measuredH": "32",
-                    "x": "415",
-                    "y": "801",
+                    "x": "407",
+                    "y": "901",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -787,8 +787,8 @@
                     "h": "265",
                     "measuredW": "241",
                     "measuredH": "170",
-                    "x": "112",
-                    "y": "342",
+                    "x": "104",
+                    "y": "442",
                     "properties": {
                         "size": "18",
                         "text": "Computer Science Basics"
@@ -801,8 +801,8 @@
                     "w": "189",
                     "measuredW": "132",
                     "measuredH": "32",
-                    "x": "453",
-                    "y": "367",
+                    "x": "445",
+                    "y": "467",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -817,8 +817,8 @@
                     "w": "189",
                     "measuredW": "100",
                     "measuredH": "32",
-                    "x": "453",
-                    "y": "421",
+                    "x": "445",
+                    "y": "521",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -833,8 +833,8 @@
                     "w": "189",
                     "measuredW": "93",
                     "measuredH": "32",
-                    "x": "453",
-                    "y": "474",
+                    "x": "445",
+                    "y": "574",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -849,8 +849,8 @@
                     "w": "188",
                     "measuredW": "159",
                     "measuredH": "32",
-                    "x": "454",
-                    "y": "529",
+                    "x": "446",
+                    "y": "629",
                     "properties": {
                         "align": "center",
                         "color": "15658734",
@@ -893,8 +893,8 @@
                     "h": "265",
                     "measuredW": "273",
                     "measuredH": "170",
-                    "x": "112",
-                    "y": "627",
+                    "x": "104",
+                    "y": "727",
                     "properties": {
                         "size": "18",
                         "text": "MLOps Basics. Model Serving"
@@ -907,8 +907,8 @@
                     "w": "202",
                     "measuredW": "131",
                     "measuredH": "32",
-                    "x": "447",
-                    "y": "705",
+                    "x": "439",
+                    "y": "805",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -923,8 +923,8 @@
                     "w": "202",
                     "measuredW": "71",
                     "measuredH": "32",
-                    "x": "141",
-                    "y": "655",
+                    "x": "133",
+                    "y": "755",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -939,8 +939,8 @@
                     "w": "202",
                     "measuredW": "89",
                     "measuredH": "32",
-                    "x": "141",
-                    "y": "696",
+                    "x": "133",
+                    "y": "796",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -956,8 +956,8 @@
                     "h": "3",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "339",
-                    "y": "671",
+                    "x": "331",
+                    "y": "771",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -985,8 +985,8 @@
                     "h": "37",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "343",
-                    "y": "676",
+                    "x": "335",
+                    "y": "776",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -1040,8 +1040,8 @@
                     "w": "234",
                     "measuredW": "157",
                     "measuredH": "32",
-                    "x": "415",
-                    "y": "944",
+                    "x": "407",
+                    "y": "1044",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1374,8 +1374,8 @@
                     "w": "240",
                     "measuredW": "95",
                     "measuredH": "32",
-                    "x": "159",
-                    "y": "385",
+                    "x": "151",
+                    "y": "485",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1390,8 +1390,8 @@
                     "w": "240",
                     "measuredW": "115",
                     "measuredH": "32",
-                    "x": "159",
-                    "y": "420",
+                    "x": "151",
+                    "y": "520",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1406,8 +1406,8 @@
                     "w": "240",
                     "measuredW": "96",
                     "measuredH": "32",
-                    "x": "159",
-                    "y": "456",
+                    "x": "151",
+                    "y": "556",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1423,8 +1423,8 @@
                     "h": "33",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "399",
-                    "y": "399",
+                    "x": "391",
+                    "y": "499",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -1452,8 +1452,8 @@
                     "h": "2",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "399",
-                    "y": "435",
+                    "x": "391",
+                    "y": "535",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -1481,8 +1481,8 @@
                     "h": "32",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "399",
-                    "y": "438",
+                    "x": "391",
+                    "y": "538",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -1799,8 +1799,8 @@
                     "h": "225",
                     "measuredW": "315",
                     "measuredH": "170",
-                    "x": "112",
-                    "y": "918",
+                    "x": "104",
+                    "y": "1018",
                     "properties": {
                         "size": "18",
                         "text": "MLOps. Machine Learning Pipeline"
@@ -1813,8 +1813,8 @@
                     "w": "234",
                     "measuredW": "136",
                     "measuredH": "32",
-                    "x": "415",
-                    "y": "990",
+                    "x": "407",
+                    "y": "1090",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1829,8 +1829,8 @@
                     "w": "234",
                     "measuredW": "148",
                     "measuredH": "32",
-                    "x": "415",
-                    "y": "1035",
+                    "x": "407",
+                    "y": "1135",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1846,8 +1846,8 @@
                     "h": "178",
                     "measuredW": "200",
                     "measuredH": "170",
-                    "x": "114",
-                    "y": "1160",
+                    "x": "106",
+                    "y": "1260",
                     "properties": {
                         "size": "18",
                         "text": "AutoML"
@@ -1860,8 +1860,8 @@
                     "w": "279",
                     "measuredW": "260",
                     "measuredH": "32",
-                    "x": "370",
-                    "y": "1196",
+                    "x": "362",
+                    "y": "1296",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1876,8 +1876,8 @@
                     "w": "240",
                     "measuredW": "86",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "1196",
+                    "x": "114",
+                    "y": "1296",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1892,8 +1892,8 @@
                     "w": "240",
                     "measuredW": "128",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "1231",
+                    "x": "114",
+                    "y": "1331",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1908,8 +1908,8 @@
                     "w": "240",
                     "measuredW": "71",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "1267",
+                    "x": "114",
+                    "y": "1367",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1924,8 +1924,8 @@
                     "w": "279",
                     "measuredW": "234",
                     "measuredH": "32",
-                    "x": "370",
-                    "y": "1231",
+                    "x": "362",
+                    "y": "1331",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1940,8 +1940,8 @@
                     "w": "279",
                     "measuredW": "127",
                     "measuredH": "32",
-                    "x": "370",
-                    "y": "1267",
+                    "x": "362",
+                    "y": "1367",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1957,8 +1957,8 @@
                     "h": "114",
                     "measuredW": "200",
                     "measuredH": "170",
-                    "x": "114",
-                    "y": "1354",
+                    "x": "106",
+                    "y": "1454",
                     "properties": {
                         "size": "18",
                         "text": "Feature Serving"
@@ -1971,8 +1971,8 @@
                     "w": "240",
                     "measuredW": "55",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "1379",
+                    "x": "114",
+                    "y": "1479",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1987,8 +1987,8 @@
                     "w": "240",
                     "measuredW": "125",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "1420",
+                    "x": "114",
+                    "y": "1520",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -2003,8 +2003,8 @@
                     "w": "279",
                     "measuredW": "196",
                     "measuredH": "32",
-                    "x": "370",
-                    "y": "1379",
+                    "x": "362",
+                    "y": "1479",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -2019,8 +2019,8 @@
                     "w": "234",
                     "measuredW": "130",
                     "measuredH": "32",
-                    "x": "415",
-                    "y": "1083",
+                    "x": "407",
+                    "y": "1183",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -2035,8 +2035,8 @@
                     "w": "240",
                     "measuredW": "61",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "1065",
+                    "x": "114",
+                    "y": "1165",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -2051,8 +2051,8 @@
                     "w": "240",
                     "measuredW": "86",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "1100",
+                    "x": "114",
+                    "y": "1200",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -2068,8 +2068,8 @@
                     "h": "22",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "363",
-                    "y": "1097",
+                    "x": "355",
+                    "y": "1197",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -2097,8 +2097,8 @@
                     "h": "16",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "359",
-                    "y": "1079",
+                    "x": "351",
+                    "y": "1179",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -2125,8 +2125,8 @@
                     "w": "240",
                     "measuredW": "58",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "1026",
+                    "x": "114",
+                    "y": "1126",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -2142,8 +2142,8 @@
                     "h": "51",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "363",
-                    "y": "1045",
+                    "x": "355",
+                    "y": "1145",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -2170,8 +2170,8 @@
                     "w": "240",
                     "measuredW": "175",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "761",
+                    "x": "114",
+                    "y": "861",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -2186,8 +2186,8 @@
                     "w": "240",
                     "measuredW": "85",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "801",
+                    "x": "114",
+                    "y": "901",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -2202,8 +2202,8 @@
                     "w": "240",
                     "measuredW": "72",
                     "measuredH": "32",
-                    "x": "122",
-                    "y": "840",
+                    "x": "114",
+                    "y": "940",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -2300,6 +2300,272 @@
                             "y": -0.0744154801360537
                         }
                     }
+                },
+                {
+                    "ID": "392",
+                    "typeID": "FieldSet",
+                    "zOrder": "120",
+                    "w": "555",
+                    "h": "193",
+                    "measuredW": "235",
+                    "measuredH": "170",
+                    "x": "106",
+                    "y": "244",
+                    "properties": {
+                        "text": "Programming Languages",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "393",
+                    "typeID": "TextInput",
+                    "zOrder": "121",
+                    "w": "189",
+                    "measuredW": "70",
+                    "measuredH": "32",
+                    "x": "407",
+                    "y": "269",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Python"
+                    }
+                },
+                {
+                    "ID": "394",
+                    "typeID": "TextInput",
+                    "zOrder": "122",
+                    "w": "188",
+                    "measuredW": "27",
+                    "measuredH": "32",
+                    "x": "408",
+                    "y": "309",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "R"
+                    }
+                },
+                {
+                    "ID": "395",
+                    "typeID": "TextInput",
+                    "zOrder": "123",
+                    "w": "188",
+                    "measuredW": "53",
+                    "measuredH": "32",
+                    "x": "203",
+                    "y": "269",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "Java"
+                    }
+                },
+                {
+                    "ID": "396",
+                    "typeID": "TextInput",
+                    "zOrder": "124",
+                    "w": "188",
+                    "measuredW": "60",
+                    "measuredH": "32",
+                    "x": "203",
+                    "y": "309",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "Kotlin"
+                    }
+                },
+                {
+                    "ID": "397",
+                    "typeID": "TextInput",
+                    "zOrder": "125",
+                    "w": "188",
+                    "measuredW": "73",
+                    "measuredH": "32",
+                    "x": "203",
+                    "y": "349",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "Golang"
+                    }
+                },
+                {
+                    "ID": "398",
+                    "typeID": "TextInput",
+                    "zOrder": "126",
+                    "w": "188",
+                    "measuredW": "64",
+                    "measuredH": "32",
+                    "x": "406",
+                    "y": "349",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "CUDA"
+                    }
+                },
+                {
+                    "ID": "399",
+                    "typeID": "TextInput",
+                    "zOrder": "127",
+                    "w": "188",
+                    "measuredW": "82",
+                    "measuredH": "32",
+                    "x": "406",
+                    "y": "389",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "C / C++"
+                    }
+                },
+                {
+                    "ID": "400",
+                    "typeID": "Arrow",
+                    "zOrder": "128",
+                    "w": "65",
+                    "h": "9",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "663",
+                    "y": "345",
+                    "properties": {
+                        "color": "2848996",
+                        "rightArrow": "false",
+                        "p0": {
+                            "x": -0.3043988890523224,
+                            "y": 8.629322935559912
+                        },
+                        "p1": {
+                            "x": 0.40756914119359605,
+                            "y": 0.05676855895196514
+                        },
+                        "p2": {
+                            "x": 64.38389189184284,
+                            "y": 0.004217498107266238
+                        }
+                    }
+                },
+                {
+                    "ID": "401",
+                    "typeID": "Arrow",
+                    "zOrder": "129",
+                    "w": "60",
+                    "h": "24",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "729",
+                    "y": "1480",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "rightArrow": "false",
+                        "p0": {
+                            "x": 60.19714752692039,
+                            "y": -0.07565869041081896
+                        },
+                        "p1": {
+                            "x": 0.5,
+                            "y": -1.8556393620755242e-15
+                        },
+                        "p2": {
+                            "x": -0.16430679782479274,
+                            "y": 24.086717936528885
+                        }
+                    }
+                },
+                {
+                    "ID": "402",
+                    "typeID": "Arrow",
+                    "zOrder": "130",
+                    "w": "76",
+                    "h": "16",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "663",
+                    "y": "1506",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "rightArrow": "false",
+                        "p0": {
+                            "x": -0.3043988890523224,
+                            "y": 15.61235092394395
+                        },
+                        "p1": {
+                            "x": 0.49999999999999983,
+                            "y": -1.807434204560699e-15
+                        },
+                        "p2": {
+                            "x": 75.83569320217521,
+                            "y": 0.08671793652888482
+                        }
+                    }
+                },
+                {
+                    "ID": "403",
+                    "typeID": "Arrow",
+                    "zOrder": "131",
+                    "w": "76",
+                    "h": "118",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "663",
+                    "y": "1372",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "rightArrow": "false",
+                        "p0": {
+                            "x": -0.3043988890523224,
+                            "y": 0.11052334143073494
+                        },
+                        "p1": {
+                            "x": 0.49999999999999983,
+                            "y": -1.8005652432870635e-15
+                        },
+                        "p2": {
+                            "x": 75.88403247511303,
+                            "y": 117.98696431995063
+                        }
+                    }
+                },
+                {
+                    "ID": "404",
+                    "typeID": "Arrow",
+                    "zOrder": "132",
+                    "w": "58",
+                    "h": "81",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "663",
+                    "y": "1151",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "rightArrow": "false",
+                        "p0": {
+                            "x": -0.3043988890523224,
+                            "y": -0.26718288652136835
+                        },
+                        "p1": {
+                            "x": 0.4999999999999999,
+                            "y": -1.864701424221031e-15
+                        },
+                        "p2": {
+                            "x": 57.83569320217521,
+                            "y": 81.08671793652888
+                        }
+                    }
                 }
             ]
         },
@@ -2312,7 +2578,7 @@
         "branchID": "Master",
         "resourceID": "B6CA7339-F49C-4092-AE87-CEB414431247",
         "mockupH": "1605",
-        "mockupW": "1276",
+        "mockupW": "1284",
         "measuredW": "1388",
         "measuredH": "1635",
         "version": "1.0"
