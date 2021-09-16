@@ -232,7 +232,7 @@
                     "measuredW": "155",
                     "measuredH": "32",
                     "x": "824",
-                    "y": "701",
+                    "y": "868",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -264,7 +264,7 @@
                     "measuredW": "58",
                     "measuredH": "32",
                     "x": "822",
-                    "y": "571",
+                    "y": "738",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -281,7 +281,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "998",
-                    "y": "681",
+                    "y": "848",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -309,7 +309,7 @@
                     "measuredW": "73",
                     "measuredH": "32",
                     "x": "821",
-                    "y": "813",
+                    "y": "980",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -325,7 +325,7 @@
                     "measuredW": "109",
                     "measuredH": "32",
                     "x": "814",
-                    "y": "1197",
+                    "y": "1401",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -342,7 +342,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "953",
-                    "y": "1211",
+                    "y": "1415",
                     "properties": {
                         "color": "2848996",
                         "rightArrow": "false",
@@ -483,8 +483,8 @@
                     "w": "184",
                     "measuredW": "171",
                     "measuredH": "26",
-                    "x": "678",
-                    "y": "1370",
+                    "x": "671",
+                    "y": "1322",
                     "properties": {
                         "bold": "true",
                         "size": "18",
@@ -526,30 +526,30 @@
                     "ID": "124",
                     "typeID": "Arrow",
                     "zOrder": "32",
-                    "w": "36",
-                    "h": "167",
+                    "w": "30",
+                    "h": "218",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "744",
-                    "y": "1411",
+                    "x": "718",
+                    "y": "1352",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "leftArrow": "false",
+                        "rightArrow": "false",
                         "p0": {
-                            "x": 0,
-                            "y": 0
+                            "x": 21.16429781863326,
+                            "y": 0.28612866819321425
                         },
                         "p1": {
-                            "x": 0.5022377085864076,
-                            "y": 0.1800716066747652
+                            "x": 0.5430180110563148,
+                            "y": 0.08583049733182543
                         },
                         "p2": {
-                            "x": 10.826540584592294,
-                            "y": 166.85438921071454
-                        },
-                        "rightArrow": "false"
+                            "x": -0.1988321761249381,
+                            "y": 218.1900546147267
+                        }
                     }
                 },
                 {
@@ -558,8 +558,8 @@
                     "zOrder": "33",
                     "measuredW": "48",
                     "measuredH": "48",
-                    "x": "756",
-                    "y": "1468",
+                    "x": "719",
+                    "y": "1471",
                     "properties": {
                         "color": "2848996",
                         "icon": {
@@ -572,45 +572,45 @@
                     "ID": "126",
                     "typeID": "Arrow",
                     "zOrder": "34",
-                    "w": "12",
-                    "h": "112",
+                    "w": "9",
+                    "h": "79",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "721",
+                    "x": "723",
                     "y": "1233",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "leftArrow": "false",
+                        "rightArrow": "false",
                         "p0": {
-                            "x": 11,
+                            "x": 9,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.5151108126259235,
-                            "y": -0.10006715916722633
+                            "x": 0.5151108126259236,
+                            "y": -0.10006715916722632
                         },
                         "p2": {
-                            "x": 12.225781076607177,
-                            "y": 112.04620340243014
-                        },
-                        "rightArrow": "false"
+                            "x": 7.61904582072998,
+                            "y": 78.6961816781527
+                        }
                     }
                 },
                 {
                     "ID": "205",
                     "typeID": "TextInput",
                     "zOrder": "35",
-                    "w": "199",
+                    "w": "240",
                     "measuredW": "136",
                     "measuredH": "32",
                     "x": "1123",
-                    "y": "667",
+                    "y": "834",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
-                        "size": "18",
-                        "text": "Object Storage"
+                        "text": "Object Storage",
+                        "size": "18"
                     }
                 },
                 {
@@ -652,7 +652,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "995",
-                    "y": "719",
+                    "y": "886",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -696,7 +696,7 @@
                     "measuredW": "107",
                     "measuredH": "32",
                     "x": "1026",
-                    "y": "1196",
+                    "y": "1400",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -713,7 +713,7 @@
                     "measuredW": "200",
                     "measuredH": "170",
                     "x": "791",
-                    "y": "529",
+                    "y": "696",
                     "properties": {
                         "text": "Infra Basics",
                         "size": "18"
@@ -723,16 +723,16 @@
                     "ID": "296",
                     "typeID": "TextInput",
                     "zOrder": "41",
-                    "w": "199",
+                    "w": "240",
                     "measuredW": "144",
                     "measuredH": "32",
                     "x": "1123",
-                    "y": "709",
+                    "y": "876",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
-                        "size": "18",
-                        "text": "Cloud GPU VMs"
+                        "text": "Cloud GPU VMs",
+                        "size": "18"
                     }
                 },
                 {
@@ -744,7 +744,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "1000",
-                    "y": "719",
+                    "y": "886",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -771,7 +771,7 @@
                     "measuredW": "209",
                     "measuredH": "32",
                     "x": "814",
-                    "y": "1001",
+                    "y": "1158",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1053,8 +1053,8 @@
                     "ID": "317",
                     "typeID": "FieldSet",
                     "zOrder": "3",
-                    "w": "282",
-                    "h": "164",
+                    "w": "291",
+                    "h": "171",
                     "measuredW": "200",
                     "measuredH": "170",
                     "x": "791",
@@ -1148,7 +1148,7 @@
                     "measuredW": "200",
                     "measuredH": "170",
                     "x": "791",
-                    "y": "919",
+                    "y": "1076",
                     "properties": {
                         "text": "DevOps: CI/CD",
                         "size": "18"
@@ -1162,8 +1162,8 @@
                     "h": "164",
                     "measuredW": "237",
                     "measuredH": "170",
-                    "x": "1089",
-                    "y": "345",
+                    "x": "792",
+                    "y": "520",
                     "properties": {
                         "text": "Machine Learning Basics",
                         "size": "18"
@@ -1176,8 +1176,8 @@
                     "w": "242",
                     "measuredW": "136",
                     "measuredH": "32",
-                    "x": "1108",
-                    "y": "370",
+                    "x": "811",
+                    "y": "545",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1192,8 +1192,8 @@
                     "w": "242",
                     "measuredW": "183",
                     "measuredH": "32",
-                    "x": "1108",
-                    "y": "415",
+                    "x": "811",
+                    "y": "590",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1208,8 +1208,8 @@
                     "w": "240",
                     "measuredW": "204",
                     "measuredH": "32",
-                    "x": "1110",
-                    "y": "459",
+                    "x": "813",
+                    "y": "634",
                     "properties": {
                         "align": "center",
                         "color": "15658734",
@@ -1225,7 +1225,7 @@
                     "measuredW": "150",
                     "measuredH": "32",
                     "x": "1123",
-                    "y": "750",
+                    "y": "917",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1241,7 +1241,7 @@
                     "measuredW": "150",
                     "measuredH": "32",
                     "x": "1123",
-                    "y": "785",
+                    "y": "952",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1257,7 +1257,7 @@
                     "measuredW": "92",
                     "measuredH": "32",
                     "x": "1123",
-                    "y": "821",
+                    "y": "989",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1300,7 +1300,7 @@
                     "measuredW": "200",
                     "measuredH": "32",
                     "x": "814",
-                    "y": "953",
+                    "y": "1110",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1317,7 +1317,7 @@
                     "measuredW": "200",
                     "measuredH": "170",
                     "x": "791",
-                    "y": "1160",
+                    "y": "1364",
                     "properties": {
                         "size": "18",
                         "text": "Infra Advanced"
@@ -1331,7 +1331,7 @@
                     "measuredW": "135",
                     "measuredH": "32",
                     "x": "814",
-                    "y": "1244",
+                    "y": "1448",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -1510,7 +1510,7 @@
                     "measuredW": "135",
                     "measuredH": "32",
                     "x": "1110",
-                    "y": "955",
+                    "y": "1112",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1526,7 +1526,7 @@
                     "measuredW": "164",
                     "measuredH": "32",
                     "x": "1110",
-                    "y": "990",
+                    "y": "1147",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1542,7 +1542,7 @@
                     "measuredW": "77",
                     "measuredH": "32",
                     "x": "1110",
-                    "y": "1026",
+                    "y": "1183",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1558,7 +1558,7 @@
                     "measuredW": "80",
                     "measuredH": "32",
                     "x": "1110",
-                    "y": "1064",
+                    "y": "1221",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1574,7 +1574,7 @@
                     "measuredW": "96",
                     "measuredH": "32",
                     "x": "1110",
-                    "y": "1104",
+                    "y": "1261",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -1590,7 +1590,7 @@
                     "measuredW": "90",
                     "measuredH": "32",
                     "x": "814",
-                    "y": "1292",
+                    "y": "1496",
                     "properties": {
                         "align": "center",
                         "color": "15658734",
@@ -1602,32 +1602,32 @@
                     "ID": "349",
                     "typeID": "TextInput",
                     "zOrder": "84",
-                    "w": "175",
+                    "w": "240",
                     "measuredW": "73",
                     "measuredH": "32",
                     "x": "1123",
-                    "y": "553",
+                    "y": "720",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
-                        "size": "18",
-                        "text": "Ubuntu"
+                        "text": "Ubuntu",
+                        "size": "18"
                     }
                 },
                 {
                     "ID": "350",
                     "typeID": "TextInput",
                     "zOrder": "85",
-                    "w": "175",
+                    "w": "240",
                     "measuredW": "78",
                     "measuredH": "32",
                     "x": "1123",
-                    "y": "591",
+                    "y": "758",
                     "properties": {
                         "align": "center",
                         "color": "15658734",
-                        "size": "18",
-                        "text": "CentOS"
+                        "text": "CentOS",
+                        "size": "18"
                     }
                 },
                 {
@@ -1639,7 +1639,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "995",
-                    "y": "568",
+                    "y": "735",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -1668,7 +1668,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "997",
-                    "y": "586",
+                    "y": "753",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -1692,16 +1692,16 @@
                     "ID": "353",
                     "typeID": "TextInput",
                     "zOrder": "88",
-                    "w": "175",
+                    "w": "240",
                     "measuredW": "65",
                     "measuredH": "32",
                     "x": "1123",
-                    "y": "627",
+                    "y": "795",
                     "properties": {
                         "align": "center",
                         "color": "15658734",
-                        "size": "18",
-                        "text": "Alpine"
+                        "text": "Alpine",
+                        "size": "18"
                     }
                 },
                 {
@@ -1713,7 +1713,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "993",
-                    "y": "717",
+                    "y": "884",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -1742,7 +1742,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "998",
-                    "y": "717",
+                    "y": "884",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -1771,7 +1771,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "995",
-                    "y": "586",
+                    "y": "753",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -2210,6 +2210,96 @@
                         "size": "18",
                         "text": "Sacred"
                     }
+                },
+                {
+                    "ID": "384",
+                    "typeID": "FieldSet",
+                    "zOrder": "115",
+                    "w": "290",
+                    "h": "164",
+                    "measuredW": "247",
+                    "measuredH": "170",
+                    "x": "1098",
+                    "y": "346",
+                    "properties": {
+                        "size": "18",
+                        "text": "Deep Learning Framework"
+                    }
+                },
+                {
+                    "ID": "388",
+                    "typeID": "TextInput",
+                    "zOrder": "116",
+                    "w": "240",
+                    "measuredW": "101",
+                    "measuredH": "32",
+                    "x": "1123",
+                    "y": "375",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "Tensorflow"
+                    }
+                },
+                {
+                    "ID": "389",
+                    "typeID": "TextInput",
+                    "zOrder": "117",
+                    "w": "240",
+                    "measuredW": "79",
+                    "measuredH": "32",
+                    "x": "1123",
+                    "y": "412",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "PyTorch"
+                    }
+                },
+                {
+                    "ID": "390",
+                    "typeID": "TextInput",
+                    "zOrder": "118",
+                    "w": "240",
+                    "measuredW": "107",
+                    "measuredH": "32",
+                    "x": "1123",
+                    "y": "452",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "Google JAX"
+                    }
+                },
+                {
+                    "ID": "391",
+                    "typeID": "Arrow",
+                    "zOrder": "119",
+                    "w": "57",
+                    "h": "352",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "731",
+                    "y": "372",
+                    "properties": {
+                        "color": "2848996",
+                        "rightArrow": "false",
+                        "p0": {
+                            "x": 57.29949680657717,
+                            "y": 352.2101068223026
+                        },
+                        "p1": {
+                            "x": 0.4754997904633509,
+                            "y": 0.009860549064792591
+                        },
+                        "p2": {
+                            "x": 0.34782956108551843,
+                            "y": -0.0744154801360537
+                        }
+                    }
                 }
             ]
         },
@@ -2222,8 +2312,8 @@
         "branchID": "Master",
         "resourceID": "B6CA7339-F49C-4092-AE87-CEB414431247",
         "mockupH": "1605",
-        "mockupW": "1267",
-        "measuredW": "1379",
+        "mockupW": "1276",
+        "measuredW": "1388",
         "measuredH": "1635",
         "version": "1.0"
     }
