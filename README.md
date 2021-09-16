@@ -1,6 +1,6 @@
-![Machine Learning Engineer Roadmap - 2020](./img/title.png)
+# Machine Learning Engineer Roadmap in 2021
 
-> Roadmap to becoming a machine learning engineer in 2020, inspired by [web-developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
+> Roadmap to becoming a machine learning engineer in 2021, inspired by [web-developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
 
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a machine learning engineer. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
 
@@ -14,7 +14,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 <h3 align="center"><strong>Note to Beginners</strong></h3>
 
-> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will release it soon after we are done with the 2020 release of roadmaps.
+> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will release it soon after we are done with the 2021 release of roadmaps.
 
 ***
 
